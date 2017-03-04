@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488639661 source:c:\users\varun\desktop\progs\alphbetapruning\main.cpp
+	<iostream>
+	<math.h>
+
